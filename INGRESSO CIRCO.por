@@ -25,9 +25,10 @@ programa {
       publicoB = publico
     }
      
-      escreva("\nO preço do ingresso: ", ingresso, "\nO número de pessoas que compõe a audiência: ", publico, "\nO lucro esperado com a realização do evento: ", lucroB,"\n-----------------------------------------------------------")
+      escreva("\nO preÃ§o do ingresso: ", ingresso, "\nO nÃºmero de pessoas que compÃµe a audiÃªncia: ", publico, "\nO lucro esperado com a realizaÃ§Ã£o do evento: ", lucroB,"\n-----------------------------------------------------------")
     
 
-    }escreva("\nO melhor preço de vendas para o ingresso: ", ingressoB, "\nO número de pessoas que compõe a audiência: ", publicoB, "\nO lucro esperado com a realização do evento: ", lucroA,"\n")
+    }escreva("\nO melhor preÃ§o de vendas para o ingresso: ", ingressoB, "\nO nÃºmero de pessoas que compÃµe a audiÃªncia: ", publicoB, "\nO lucro esperado com a realizaÃ§Ã£o do evento: ", lucroA,"\n")
   }
 }
+//teste
