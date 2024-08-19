@@ -8,5 +8,7 @@ deve mostrar:
 
 
 a) O melhor preço de vendas para o ingresso.
+
 b) O número de pessoas que compõe a audiência.
+
 c) O lucro esperado com a realização do evento. 
