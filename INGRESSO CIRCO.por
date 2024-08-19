@@ -17,8 +17,8 @@ programa {
 			se(lucro > maiorlucro)
 			{
 	    		maiorlucro = lucro
-	      	ingressoB = ingresso
-	      	publicoB = publico
+	      		ingressoB = ingresso
+		      	publicoB = publico
 			}
 	     
 			escreva("O preço do ingresso: ", ingresso, "\n")
